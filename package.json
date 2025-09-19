@@ -1,7 +1,7 @@
 {
   "name": "my-app",
-  "homepage": "https://UXonTheArc.yourusername.github.io/bigiron-digital-design-system/",
-  "private": true,
+  "homepage": "/",
+  "private": false,
   "type": "module",
   "scripts": {
     "dev": "vite --port 3000",

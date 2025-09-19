@@ -21,5 +21,5 @@ export default defineConfig({
   server: {
     // You can add supported server options here, such as port, open, etc.
   },
-  base: "/bigiron-digital-design-system", // Ensures relative paths for assets
+  base: "/bigiron-digital-design-system/", // Ensures relative paths for assets
 });
