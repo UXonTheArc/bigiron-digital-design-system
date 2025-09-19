@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "/",
+  "homepage": "https://UXonTheArc.github.io/bigiron-digital-design-system",
   "private": false,
   "type": "module",
   "scripts": {
